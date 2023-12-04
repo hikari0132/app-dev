@@ -1,2 +1,6 @@
 # app-dev
-My first repository
+**Favorite Movies/Series**
+- Interstellar 
+- Shutter Island 
+- Sweet Home
+- Parasite
